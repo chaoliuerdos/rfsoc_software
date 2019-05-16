@@ -1,3 +1,5 @@
+The project need to setup correctly in Xilinx SDK - both hardware platform and board support package.
+
 The GbE was implemented based on the FreeRTOS LwIP UDP Perf Client example design.
 
 rfdc_clk.c configures the rfdc ip - including programing LMX PLLs (there are two PLLs on the board).
