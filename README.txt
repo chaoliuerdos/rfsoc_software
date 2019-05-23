@@ -1,4 +1,4 @@
-The project need to setup correctly in Xilinx SDK - both hardware platform and board support package.
+The project need to setup correctly in Xilinx SDK - both hardware platform and board support package. The FPGA firmware of the DSP should be replaced by the real dsp in the short future.
 
 The GbE was implemented based on the FreeRTOS LwIP UDP Perf Client example design.
 
